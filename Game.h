@@ -4,8 +4,8 @@
 
 using namespace std;
 
-const int ROWS = 4;
-const int COLS = 4;
+const int ROWS = 8;
+const int COLS = 8;
 
 /*****************************************************************************/
 /*                                                                           */
